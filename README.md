@@ -20,3 +20,4 @@ After execution of the Jupyter Notebook:
 
 The example subdirectory contains the codes.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3968838.svg)](https://doi.org/10.5281/zenodo.7051680)
